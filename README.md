@@ -1,4 +1,4 @@
 ### Links
 
-- Solution URL: (https://shahriartbc.github.io/First_Tailwind_Project/)
+- Solution URL: (https://shariar-ahamed.github.io/First_Tailwind_Project/)
 
